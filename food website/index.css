@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    
+}
+.navbar{
+    background-color: #f0c078;
+    border-bottom: 0.03em 0.03em 3px rgb(0 0 0);
+
+}
+
+.navbar-brand{
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    padding-left: 25px;
+    font-weight: 600;
+}
+.navbar-nav{
+    color:black;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: #fff;
+    
+
+}
+.navbat-toggler{
+    border-color:transparent;
+}
+
+
+
+ .hero-section{
+    background-image: url("https://static1.s123-cdn-static-a.com/ready_uploads/media/21950/2000_5cdbfdd19310c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    z-index: 1;
+    
+}
+.content{
+   transform: translate(450px,200px);
+   -webkit-transform: translate(450px,200px);
+   -moz-transform: translate(450px,200px);
+   -ms-transform: translate(450px,200px);
+   -o-transform: translate(450px,200px);
+}
+.content h5{
+    font-size: 50px;
+    font-family: 'Caladea', Arial, sans-serif;
+    color: #fff;
+    font-weight: 600;
+    text-shadow: 0.03em 0.03em 3px rgb(0 0 0);
+    
+}
+.content p{
+    font-size: 25px;
+    font-family: 'Caladea', Arial, sans-serif;
+    color: #fff;
+}
+.book-table{
+    background-color: #f9f9f9f9;
+}
+.book-table h1{
+    text-align: center;
+    padding-bottom: 70px;
+    text-transform: uppercase;
+
+}
+.book-table h3{
+    font-size: 25px;
+    color: black;
+    font-family: 'Caladea', Arial, sans-serif;
+    /* margin: 20px 0 8px; */
+}
+.book-table .para{
+    font-size: 16px;
+    color: black;
+    font-family: 'Caladea', Arial, sans-serif;
+}
+.para3 p{
+    font-size: 16px;
+    color: black;
+}
+.chart{
+    background-color: #ffffff;
+    padding: 24px;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.btn{
+    background-color: #f0c078;
+    margin-top: 20px;
+    width: auto;
+}
+.about-section{
+    background-color: #fff;
+}
+.heading h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-weight: bold;
+}
+.heading p{
+    font-size: 17px;
+    font-family: 'Caladea', Arial, sans-serif;
+    color: black;
+}
+.image{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+.contact{
+    text-align: center;
+}
+.contact h1{
+    margin-bottom: 50px;
+}
+.para1{
+    color: #f0c078;
+    margin-right: 15px;
+}
+.btn1{
+    background-color: #f0c078;
+}
